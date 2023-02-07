@@ -1,0 +1,36 @@
+body {
+    background-color: aliceblue;
+}
+section {
+    width: 50%;
+    padding: 20px 30px;
+    background-color: white;
+    margin: 25px auto;
+    border-radius: 20px
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top h1 {
+    margin: 10px 0;
+}
+
+.notifications {
+    padding: 20px 10px;
+}
+
+.notification {
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.no-img img {
+    width: 60px;
+}
